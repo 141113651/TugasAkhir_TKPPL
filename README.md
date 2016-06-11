@@ -10,16 +10,16 @@
 ___
                     
 Anggota 1
-Nama: Charles-----------( 14.111.1758 )
+Nama: Charles-----------------( 14.111.1758 )
 
 Anggota 2
 Nama: Achmad Hanafi------( 14.111.3651 )
 
 Anggota 3
-Nama: Ade Suganda ----( 14.111.2338 )
+Nama: Ade Suganda --------( 14.111.2338 )
 
 Anggota 4
-Nama: Edelman Lase---------( 14.111.2354 )
+Nama: Edelman Lase--------( 14.111.2354 )
 
 Anggota 5
-Nama: Erwin Silalahi--------( 14.111.4860 )
+Nama: Erwin Silalahi---------( 14.111.4860 )
