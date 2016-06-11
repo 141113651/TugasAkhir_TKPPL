@@ -5,7 +5,7 @@
 
 * Alamat Github: [Github Link](https://github.com/141113651/TugasAkhir_TKPPL)
 * Alamat Trello: [Trello Link](https://trello.com/b/iz59NWku/tkppl)
-* Judul Topik: All About Graphic Card
+* Judul Topik: <b>All About Graphic Card</b>
 
 ___
                     
